@@ -2,3 +2,5 @@
 node_modules
 initlearn-backend/target/
 initlearn-backend/.idea/
+target/
+.idea/
